@@ -4,3 +4,5 @@ content:
 - From string to a number
 - String processor
 - The largest element
+- The sequence 1 2 2 3 3 3 ...
+- Balance checker
