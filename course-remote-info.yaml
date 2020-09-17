@@ -45,6 +45,8 @@ topics:
     theory_id: 4472
   - title: Boolean and logical operations
     theory_id: 4515
+  - title: Increment and decrement
+    theory_id: 10776
   - title: Invoking functions
     theory_id: 4575
   - title: Standard input
@@ -107,5 +109,7 @@ topics:
     theory_id: 10511
   - title: Object declarations
     theory_id: 10698
+  - title: Companion object
+    theory_id: 10707
   - title: Enum
     theory_id: 6245
